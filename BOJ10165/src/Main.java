@@ -50,7 +50,6 @@ public class Main {
 			
 			v.add(new Ans(s, e, i));
 		}
-		Collections.sort((List<Ans>) v);
 	}
 
 }
