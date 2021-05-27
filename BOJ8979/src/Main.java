@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//ë‹¤ì‹œí’€ì
 class Country{
 	int country;
 	int g;
@@ -23,7 +23,7 @@ public class Main {
 		int k = sc.nextInt();
 		
 		int idx = 0;
-		int ans = 1; //ÀÚ½Åº¸´Ù ÀßÇÑ ³ª¶ó ¼ö + 1
+		int ans = 1; //ï¿½Ú½Åºï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ + 1
 		
 		Country[] arr = new Country[n + 1];
 		
